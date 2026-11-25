@@ -2,7 +2,7 @@ name: astrbot_plugin_human_service
 display_name: 人工客服
 desc: 人工客服插件，为bot提供转人工服务
 help:  略
-version: v2.0.0
+version: v2.0.1
 author: 饰乐
 repo: https://github.com/Zhalstar/astrbot_plugin_human_service
 astrbot_version: ">=4.18.2"
